@@ -1,0 +1,13 @@
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\bin\Release\VascoForce.exe.config
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\bin\Release\VascoForce.exe
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\bin\Release\VascoForce.pdb
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\bin\Release\VascoForce.xml
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.vbprojAssemblyReference.cache
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.Generator.resources
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.VascoForce.resources
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.Resources.resources
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.vbproj.GenerateResource.cache
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.vbproj.CoreCompileInputs.cache
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.exe
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.xml
+C:\Users\kuhi\source\repos\VascoForce\VascoForce\obj\Release\VascoForce.pdb
